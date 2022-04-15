@@ -4,7 +4,8 @@ Currently working as a Property Manager in Sydney and soon to be looking for Rea
 
 - :briefcase: Visit my portfolio at https://teeang.net/
 - 🔭 I’m currently working on my [rental-applications](https://github.com/davidtaing/rental-applications) Next.js app.
-- :heavy_check_mark: After that, I'm planning on redesigning and rebuilding https://teeang.net/
+- :arrow_forward: [Watch me struggle after accidentally use beforeAll instead of beforeEach](https://www.youtube.com/watch?v=9PPg4xp6ph0)
+- :heavy_check_mark: After that, I'll redesign and rebuild https://teeang.net/
 
 ## Skills
 - TypeScript
