@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>Hi there, I'm David 👋</h1>
 
-<!--
-**davidtaing/davidtaing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working as a Property Manager in Sydney and soon to be looking for React Developer or Fullstack Roles. I'm mostly building Real Estate related projects.
 
-Here are some ideas to get you started:
+- :briefcase: Visit my portfolio at https://teeang.net/
+- 🔭 I’m currently working on my [rental-applications](https://github.com/davidtaing/rental-applications) Next.js app.
+- :heavy_check_mark: After that, I'm planning on redesigning and rebuilding https://teeang.net/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- TypeScript
+- React
+- Next.js
+- Jest
+- react-testing-library
+- Node.js
+- Express
+- OpenAPI
