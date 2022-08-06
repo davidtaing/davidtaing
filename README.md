@@ -14,3 +14,4 @@ Currently working as a Property Manager in Sydney. I'm mostly building Real Esta
 - Node.js
 - Express
 - OpenAPI
+- MongoDB
