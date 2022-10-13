@@ -5,7 +5,7 @@
 
 ## Things that I'm deeply passionate about:
 - Becoming a more effective Software Engineer
-- Making my peers more effective
+- Helping my colleagues and peers more effective Software Engineers
 - Understanding blockers that are holding people back
 - Encouraging beginners to get involved in software
 - Open-source software
