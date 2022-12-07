@@ -8,9 +8,14 @@
 # [Click Here For My Recent Open Source Wins (Notion Page)](https://teeang2.notion.site/OSS-Brag-Document-David-Taing-2a67c6e4ef314a2e9fd792d4ae6e69ae)
 
 ## Currently Working On
-[Code.Sydney's Migram Project](https://github.com/codesydney/migram-frontend) & [Marketplace](https://github.com/davidtaing/marketplace)
 
-And currently learning Test Driven Development and Continuous Integration.
+[Todo V.5 - TDD Edition](https://github.com/codesydney/job-tracker)
+
+[Code.Sydney's Job Tracker Side-Project](https://github.com/codesydney/job-tracker)
+
+[Code.Sydney's Migram Project](https://github.com/codesydney/migram-frontend)
+
+[Code.Sydney's LloydConsulting Project](https://github.com/codesydney/lloydconsulting)
 
 ## Things that I'm deeply passionate about:
 - Becoming a more effective Software Engineer
