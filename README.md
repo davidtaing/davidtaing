@@ -9,7 +9,7 @@
 
 ## Currently Working On
 
-[Todo V.5 - TDD Edition](https://github.com/codesydney/job-tracker)
+[Todo V.5 - TDD Edition](https://github.com/davidtaing/todo-v5)
 
 [Code.Sydney's Job Tracker Side-Project](https://github.com/codesydney/job-tracker)
 
