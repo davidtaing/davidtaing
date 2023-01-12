@@ -5,11 +5,7 @@
 
 ---
 
-# [Click Here For My Recent Open Source Wins (Notion Page)](https://teeang2.notion.site/OSS-Brag-Document-David-Taing-2a67c6e4ef314a2e9fd792d4ae6e69ae)
-
 ## Currently Working On
-
-[Todo V.5 - TDD Edition](https://github.com/davidtaing/todo-v5)
 
 [Code.Sydney's Job Tracker Side-Project](https://github.com/codesydney/job-tracker)
 
