@@ -4,6 +4,9 @@
 
 I'm currently working as a Part-Time Contractor doing some Web Development Work.
 
+Here's a GitHub Project board for the things that I'm working on:
+https://github.com/users/davidtaing/projects/4
+
 ## Things that I'm deeply passionate about:
 - Becoming a more effective Software Engineer
 - Helping my colleagues and peers more effective Software Engineers
