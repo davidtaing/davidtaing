@@ -3,3 +3,5 @@
 ## 👋 Hello, I'm Dave.
 
 [![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidtaing)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidtaing)](https://github.com/anuraghazra/github-readme-stats)
